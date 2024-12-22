@@ -19,3 +19,6 @@ Proposals in this category focus on leveraging platforms and tools (e.g., Postma
 - Exposed credentials or secrets in public APIs.
 - Sensitive information or documents related to target.
 - Patterns or signals suggesting potential breaches, such as indicate mentions of sensitive assets, suspicious activity logs, or unexplained data leaks.
+
+## Deliverable
+Send your proposal via email to info@cypho.io with the subject line: [Cypho Sources Challenge Submission]
