@@ -1,7 +1,7 @@
 # Welcome to the cypho.io Sources Challenge!
 Cypho invites you to contribute to our platform by identifying, analyzing, and integrating new data sources. These tasks are part of a reward-based system, where you are evaluated on the quality, relevance, and technical depth of their proposals. Below are the categories for source integration tasks:
 
-<h3> Prize: best score wins $200!</h3>
+<h3> Prize: best scores win $200!</h3>
 
 ## Getting Started
 To participate in this challenge, you are required to submit proposals that address specific categories of source integration. Each proposal should include the following:
